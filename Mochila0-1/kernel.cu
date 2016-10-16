@@ -294,7 +294,7 @@ void encItens(int *mol, int n, int W, int pes[], int val[], int nit, int wit){
 	int i, pcal;
 
 
-	//mat[n]
+	//mat[n] abc
 
 	if (mol[(n*(wit+1))+W] == mol[((n - 1)*(wit+1))+W]){
 		if (mol[(n*(wit+1)) + W] != 0){
